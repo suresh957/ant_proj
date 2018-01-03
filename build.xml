@@ -1,4 +1,4 @@
-<?xml version="3.0" ?> 
+<?xml version="4.0" ?> 
 <project name="AntExample1" default="war">
 
 	<path id="compile.classpath">
